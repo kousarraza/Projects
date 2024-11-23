@@ -2,7 +2,7 @@
 ## My Projects 
 ---
 
-|#|Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
+|Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
 |------------------------|--------------------------|----------------------------------------------|----------------------|------------------|
 |House Price Prediction|To find House Price Prediction using<br> Linear Regression ML Model.|Sklearn, Matplotlib, Pandas, Numpy|**[try it](https://shorturl.at/gHOyR)**  | **[View GitHub Repo](https://shorturl.at/gHOyR)**|    
 |Social Media Sentiment Analysics|To use ML Algorithms Performed on<br> Social Media Sentiment Analysics.| Seaborn, Matplotlib, Pandas, Numpy| **[try it](https://shorturl.at/roI25)**  | **[View GitHub Repo](https://shorturl.at/roI25)**|  
