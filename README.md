@@ -1,7 +1,7 @@
   
 ## My Projects 
 ---
-    
+      
 |Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
 |------------------------|--------------------------|----------------------------------------------|----------------------|------------------|
 |Data View|A DataView is a user-friendly web application built using Streamlit, Pandas,<br>Seaborn, and Matplotlib for advanced data analysis and visualization.|Python,  Matplotlib, Pandas, Numpy|**[try it](https://shorturl.at/B9d56)** |**[View GitHub Repo](https://shorturl.at/1HhWs)**|
